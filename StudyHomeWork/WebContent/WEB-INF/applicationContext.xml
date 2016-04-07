@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean id="list" class="com.model.MemberListModel"/>
+	<bean id="detail" class="com.model.MemberDetailModel"/>
+	<bean id="total" class="com.model.MemberTotalModel"/>
+</beans>
